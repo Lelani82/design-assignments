@@ -1,5 +1,18 @@
 * {box-sizing:border-box}
 
+h1 {
+    text-align: center;
+    color: #7cc9d9;
+    text-shadow: 1px 1px rgba(73, 70, 70, 0.486);
+    font-size: 45px;
+}
+
+p {
+    text-align: center;
+    color:  rgb(34, 33, 33);
+    font-size: 18px;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -44,7 +57,7 @@
 /* Caption text */
 .text {
   color: rgb(15, 15, 15);
-  font-size: 20px;
+  font-size: 18px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
